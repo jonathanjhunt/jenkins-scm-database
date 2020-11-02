@@ -30,3 +30,10 @@ INSERT INTO Books (
         "J. R. R. Tolkien",
         "https://books.google.com/books/content/images/frontcover/FKziXsnqLTEC?fife=w200-h300"
 );
+INSERT INTO Books (
+        Name, Author, Image
+) VALUES (
+        "Mastering Jenkins",
+        "Jonathan McAllister",
+        "https://images-na.ssl-images-amazon.com/images/I/512XMqqD+XL._SX404_BO1,204,203,200_.jpg"
+);
